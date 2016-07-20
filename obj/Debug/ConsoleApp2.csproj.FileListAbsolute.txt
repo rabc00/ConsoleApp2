@@ -1,0 +1,6 @@
+E:\aspnet\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\aspnet\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\aspnet\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\aspnet\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+E:\aspnet\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\aspnet\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
